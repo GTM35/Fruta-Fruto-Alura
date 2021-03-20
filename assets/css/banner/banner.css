@@ -1,4 +1,9 @@
-.banner{
-
+.banner {
     position: relative;
+}
+
+@media screnn and (min-width: 0) {
+    .banner {
+        position: relative;
+    }
 }
